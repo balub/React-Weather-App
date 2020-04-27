@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.weather-grid{
+  padding-top: 2em;
+}
+
+.weater-card{
+  padding-top: 2em;
+}
